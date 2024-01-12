@@ -1,0 +1,7 @@
+@inproceedings{REPO014,
+    author = "Asharov, Gilad and Komargodski, Ilan and Michelson, Yehuda",
+    booktitle = "Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security",
+    pages = "3313--3327",
+    title = "{FutORAMa: A Concretely Efficient Hierarchical Oblivious RAM}",
+    year = "2023"
+}
